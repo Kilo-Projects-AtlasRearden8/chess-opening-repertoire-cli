@@ -1,6 +1,10 @@
-__pycache__/
-*.py[cod]
 *.egg-info/
-.venv/
+*.py[cod]
+*.pyc
+.env
+.env.*
 .pytest_cache/
-.repertoire.json
+.repertoire.jsonnode_modules/
+.venv/
+__pycache__/
+dist/*.tmp
